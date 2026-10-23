@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Preview configuration. Replace only after production domain and launch settings are approved.
